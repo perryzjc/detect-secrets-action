@@ -1,4 +1,4 @@
-name: Secret Detection Workflow
+name: detect-secrets Action
 on:
   push:
     branches:
