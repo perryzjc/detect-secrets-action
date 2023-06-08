@@ -9,7 +9,7 @@ For more information about `NASA-AMMOS/slim-detect-secrets`, please refer to the
 
 To integrate the Detect Secrets Action into your workflow, include the following configuration in your GitHub Actions workflow file:
 
-[View the action.yml configuration](https://github.com/perryzjc/slim-detect-secrets-action/blob/main/action.yaml)
+[View the action.yml configuration](https://github.com/perryzjc/detect-secrets-action/blob/main/action.yaml)
 
 ## Workflow Steps
 
