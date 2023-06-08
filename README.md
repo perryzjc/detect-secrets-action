@@ -1,10 +1,9 @@
 # detect-secrets Action
 
-detect-secrets Action is a powerful GitHub Action designed to scan your repository for any secrets that may have been accidentally committed, helping to protect your codebase and minimize the risk of sensitive information leakage. It is built upon the experimental version of `slim-detect-secrets` from NASA AMMOS and will be updated to use the official Yelp/detect-secrets version once the customized plugins are merged.
+detect-secrets Action is a powerful GitHub Action designed to scan your repository for any secrets that may have been accidentally committed, helping to protect your codebase and minimize the risk of sensitive information leakage. It is built upon the experimental version of [NASA-AMMOS/slim-detect-secrets](https://github.com/NASA-AMMOS/slim-detect-secrets/tree/exp) and will be updated to use the official [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) version once the customized plugins are merged.
 
-For detailed information about `slim/detect-secrets`, please refer to the following links:
-1. [Experimental version of slim-detect-secrets (with additional secret detection plugins)](https://github.com/NASA-AMMOS/slim-detect-secrets/tree/exp)
-2. [SLIM's documentation for detect-secrets usage](https://github.com/NASA-AMMOS/slim/blob/d20ee6134a0dc0e0dab11d2d2570e358ef7e4550/continuous-testing/starter-kits/README.md#detect-secrets)
+For more information about `NASA-AMMOS/slim-detect-secrets`, please refer to the following links:
+1. [NASA-AMMOS SLIM's documentation for detect-secrets usage](https://github.com/NASA-AMMOS/slim/blob/d20ee6134a0dc0e0dab11d2d2570e358ef7e4550/continuous-testing/starter-kits/README.md#detect-secrets)
 
 ## Usage
 
